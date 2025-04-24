@@ -5,3 +5,4 @@ Everything I want to learn and build in 2025
 - Websockets
 - Webhooks
 - Monorepos
+- AWS EC2
